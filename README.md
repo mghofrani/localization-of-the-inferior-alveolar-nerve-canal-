@@ -3,7 +3,12 @@ If you find the codes useful, please cite Bahrampour, Ehsan, Ali Zamani, Sadegh 
 https://www.birpublications.org/doi/abs/10.1259/dmfr.20150298
 
 Run "main.m".
+
 Provide a folder containing dicom CT/CBCT images.
+
 Select the region of interest.
+
 Built a panoramic image by clicking on the teeth in a proper slice. (Finish by right clicking).
-Click "Traverse" to locate alveolar canal.
+
+Click "Traverse" to locate mandibular canal.
+
