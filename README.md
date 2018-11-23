@@ -8,7 +8,7 @@ Provide a folder containing dicom CT/CBCT images.
 
 Select the region of interest.
 
-Built a panoramic image by clicking on the teeth in a proper slice. (Finish by right clicking).
+Build a panoramic image by clicking on the teeth in a proper slice. (Finish by right clicking).
 
 Click "Traverse" to locate mandibular canal.
 
